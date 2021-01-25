@@ -1,0 +1,1 @@
+# Supervised-image-classification-algorithm-using-representative-texture-features
