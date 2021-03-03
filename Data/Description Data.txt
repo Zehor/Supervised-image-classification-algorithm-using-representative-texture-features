@@ -2,4 +2,4 @@ The data used in the paper is:
 
 1) Distance_GLCM_all_NC_C_dir_all_32_Seg : Wasserstein distance matrix between all pairs of GLCMs computed within the segmented lungs. The distance is square of dimension (number of N-COVID samples * number of COVID samples), where the order of pairs is N-COVID - COVID. 
 
-2) GLCM_COVID_all_dir_all_32_Seg : Contains the 2D-GLCMs of all samples (cooccurC.mat), and the statistical features from each 2D GLCM (featC.mat)}
+2) GLCM_COVID_all_dir_all_32_Seg : Contains the 2D-GLCMs of all samples (cooccurC.mat), and the statistical features from each 2D GLCM (featC.mat)
