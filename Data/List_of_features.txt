@@ -1,0 +1,30 @@
+
+--- Statistical features from GLCM -----
+
+1.  Energy
+2.  Joint entropy  
+3.  Joint max  
+4.  Joint avg  
+5.  Joint variance
+6.  Contrast  
+7.  Inverse difference moment
+8.  Inverse difference moment normalized
+9.  Inverse difference 
+10. Inverse difference normalized
+11. Inverse variance
+12. Dissimilarity 
+13. Difference entropy   
+14. Difference variance   
+15. Sum avg
+16. Sum variance
+17. Sum entropy
+18. Correlation
+19. Cluster tendency 
+20. Cluster shade
+21. Cluster prominence
+22. Haralick correlation
+23. Auto-correlation
+24. First measure of information correlation  
+25. Second measure of information correlation
+
+
