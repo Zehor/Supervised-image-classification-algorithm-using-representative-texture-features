@@ -8,4 +8,4 @@ To run the code properly, please make sure that you install MATLAB or have acces
 # Copyright (c) Zehor Belkhatir, Raúl San José Estépar, and Allen R. Tannenbaum
 
 # Contact Persons: Zehor Belkhatir 
-# (E-mail: zehor.belkhatir@kaust.edu.sa)
+# (E-mail: zohor.belkhatir@bmail.com)
