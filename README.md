@@ -10,5 +10,5 @@ To run the code properly, please make sure that you install MATLAB or have acces
 # Contact Persons: Zehor Belkhatir 
 # (E-mail: zohor.belkhatir@bmail.com)
 
-The codes available in the folder "GLCM and Wasserstein distance compute" can be used for any set of images that you would analyse using the proposed texture feature approach. 
-The codes available in the folder "Classification pipeline" runs the proposed texture classification pipepline using the GLCM texture and Wasserstein distance matrix data that are available in the folder "Data". Excute the script "Main_run.m" to run the algorithm.  
+* The codes available in the folder "GLCM and Wasserstein distance compute" can be used for any set of images that you would analyse using the proposed texture feature approach. 
+* The codes available in the folder "Classification pipeline" runs the proposed texture classification pipepline using the GLCM texture and Wasserstein distance matrix data that are available in the folder "Data". Excute the script "Main_run.m" to run the algorithm.  
