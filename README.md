@@ -8,7 +8,7 @@ To run the code properly, please make sure that you install MATLAB or have acces
 # Copyright (c) Zehor Belkhatir, Raúl San José Estépar, and Allen R. Tannenbaum
 
 # Contact Persons: Zehor Belkhatir 
-# (E-mail: zohor.belkhatir@bmail.com)
+# (E-mail: zohor.belkhatir@gmail.com)
 
 * The MATLAB codes available in the folder "GLCM and Wasserstein distance compute" can be used for any set of images that you would like analyse using the    
   proposed texture feature approach.
