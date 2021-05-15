@@ -10,7 +10,7 @@ To run the code properly, please make sure that you install MATLAB or have acces
 # Contact Person: Zehor Belkhatir 
 # (E-mail: zohor.belkhatir@gmail.com)
 
-* The MATLAB codes available in the folder "GLCM and Wasserstein distance compute" can be used for any set of images that you would like analyse using the    
+* The MATLAB codes available in the folder "GLCM and Wasserstein distance computation" can be used for any set of images that you would like analyse using the    
   proposed texture feature approach.
     * GLCM_bins_images.m : Computes the 2D GLCM matrices and extracts the statistical features from them.
     * To compute the GLCM you need to add the "Computational Environment for Radiological Research (CERR)" MATLAB package to the search Path
